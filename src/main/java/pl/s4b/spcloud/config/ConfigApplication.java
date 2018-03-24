@@ -1,4 +1,4 @@
-package pl.s4b.config;
+package pl.s4b.spcloud.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

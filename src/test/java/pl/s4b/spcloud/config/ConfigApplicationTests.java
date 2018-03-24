@@ -1,4 +1,4 @@
-package pl.s4b.config;
+package pl.s4b.spcloud.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
